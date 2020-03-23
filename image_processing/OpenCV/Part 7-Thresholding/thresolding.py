@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 # for image ( we can also do with image )
 ##img = cv2.imread('dog.png')
 cap = cv2.VideoCapture(0)

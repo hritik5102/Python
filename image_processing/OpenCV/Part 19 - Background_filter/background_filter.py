@@ -1,6 +1,4 @@
 import cv2
-import numpy
-
 
 cap = cv2.VideoCapture('background.mp4')
 back = cv2.createBackgroundSubtractorMOG2()

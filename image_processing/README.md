@@ -30,3 +30,6 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
   - Haar cascade
 
 
+## Requirements
+
+python package required is present [Here](https://gist.github.com/hritik5102/e1f0e9eb64ad8dcabd630e89bca42860)

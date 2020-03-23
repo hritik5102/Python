@@ -1,7 +1,6 @@
 import cv2
 import math
 import numpy as np
-import matplotlib as plt
 
 cap = cv2.VideoCapture('theroad.mp4')
 #cap = cv2.VideoCapture(0)

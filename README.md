@@ -1,4 +1,4 @@
-# The Algorithms - Python
+# The Algorithms - Python  ![](https://img.shields.io/github/forks/TheAlgorithms/Python?style=social) ![](https://img.shields.io/github/stars/TheAlgorithms/Python?style=social) ![](https://img.shields.io/github/watchers/TheAlgorithms/Python?style=social) <br>
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Python) 
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
 [![Build Status](https://img.shields.io/travis/TheAlgorithms/Python.svg?label=Travis%20CI&logo=travis&style=flat-square)](https://travis-ci.com/TheAlgorithms/Python)&nbsp;

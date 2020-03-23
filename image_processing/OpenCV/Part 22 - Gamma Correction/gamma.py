@@ -3,8 +3,7 @@ import numpy as np
 
 def gamma_filter(image , gamma = 1.0):
     invGamma = 1.0 / gamma
-    table = np.array([((i / 255.0) ** invGamma) * 255
-	    for i in np.arange(0, 256)]).astype("uint8")
+    table = np.array([  (((i / 255.0) ** invGamma) * 255) for i in np.arange(0, 256)]).astype("uint8")
  
     # apply gamma correction using the lookup table
     return cv2.LUT(image, table)
